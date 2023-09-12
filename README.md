@@ -1,5 +1,5 @@
 
-#  Rock-Paper-Scissors(python Game)
+#  Rock-Paper-Scissors(Python Game)
 Your mission is to win.
 #  Acknowledgements
 I would like to thank Dr. Angela Yu.
